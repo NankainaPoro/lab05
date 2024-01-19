@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">lab05</string>
+    <string name="txt_data">DATA</string>
+    <string name="btn_open_dialog">OPEN DIALOG</string>
+    <string name="btn_exit_app">EXIT APP</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_cancel">CANCEL</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+</resources>
